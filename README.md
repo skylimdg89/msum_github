@@ -1,3 +1,3 @@
 # msum_github
 
-Hello people.
+Hello People.
